@@ -1,4 +1,4 @@
-My fist message
+
 #include <stdio.h>
 #include <math.h>
 
