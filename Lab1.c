@@ -1,3 +1,4 @@
+//first comment
 
 #include <stdio.h>
 #include <math.h>
@@ -12,5 +13,7 @@ void main() {
 
   result = sqroot + tan(x * y) - (142 * (y - x)) / 16.32;
   
-  printf("Result: %lf\n", result);
+  printf("Result is: %lf\n", result);
+  printf("Hello....................................");
 }
+
